@@ -8,7 +8,8 @@
 # Site Settings
 # locale                 : "en-US"
 locale                   : "de-DE"
-title                    : "Minimal Mistakes"
+title                    : "Doku WhitePaper"
+#title                   : "Minimal Mistakes"
 title_separator          : "-"
 name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
@@ -89,16 +90,19 @@ author:
   name             : *name
   avatar           : "/assets/images/michael-rose.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  location         : "Mutter Erde"
+  #location        : "Buffalo, NY"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "https://MyCryptoWorld.com/WhitePaper"
+  #uri             : "https://mademistakes.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "MyCryptoWorld/doku"
+  #github          : "mmistakes"
   google_plus      :
   keybase          :
   instagram        : "mmistakes"
