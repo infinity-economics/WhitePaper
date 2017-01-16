@@ -8,7 +8,7 @@
 # Site Settings
 # locale                 : "en-US"
 locale                   : "de-DE"
-title                    : "Doku WhitePaper"
+title                    : "WhitePaper"
 #title                   : "Minimal Mistakes"
 title_separator          : "-"
 name                     : &name "Michael Rose"
@@ -17,7 +17,7 @@ description              : &description "A flexible Jekyll theme for your blog o
 #url                     : http://localhost:4000
 url                      : "https://MyCryptoWorld.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #"doku"
+repository               : "MyCryptoWorld/WhitePaper"
 #
 #url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
