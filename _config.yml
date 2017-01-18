@@ -15,8 +15,8 @@ title_separator          : "-"
 name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 #
-#url                     : http://localhost:4000
-url                      : "https://MyCryptoWorld.com"
+url                     : http://localhost:4000
+#url                      : "https://MyCryptoWorld.com"
 #
 #url                     : "https://MyCryptoWorld.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

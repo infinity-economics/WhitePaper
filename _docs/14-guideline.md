@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com)"
   cta_label: "Zum Portal"
-  cta_url: "https://MyCryptoWorld.com"
+  cta_url: "http://MyCryptoWorld.com"
 modified:  2016-12-31T10:13:32-04:00
 sidebar:
   nav: "mcc"
