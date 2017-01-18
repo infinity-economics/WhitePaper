@@ -23,7 +23,7 @@ Sobald die Bootstrap abgeschlossen ist wird das ganze System komplett im Besitz 
 *[Mehr über dezentrale autonome Organisationen und Anwendungen](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization){:target="_blank"}
 
 ## Direkte Meritokratie
-Entscheidungen werden demokratisch getroffen; jeder hat eine Stimme. Je größer Ihr Einsatz ist, desto mehr Einfluss haben Sie. Dies wird durch die Verwendung des dezentralen und transparenten MCC Wahlsystems durchgeführt. Diese Abstimmungen werden für alle Entscheidungen in Bezug Investitionen für die weitere Software- Entwicklung verwendet. Dies ist ein wahres für Menschen gemachtes e-Governance- System ohne dem Risiko, dass "einige gleicher als andere" sind. Alle Entscheidungen sind nicht nur transparent, sondern auch für immer verfügbar und sichtbar in der blockchain für alle gespeichert..
+Entscheidungen werden demokratisch getroffen; jeder hat eine Stimme. Je größer Ihr Einsatz ist, desto mehr Einfluss haben Sie. Dies wird durch die Verwendung des dezentralen und transparenten MCC Wahlsystems durchgeführt. Diese Abstimmungen werden für alle Entscheidungen in Bezug Investitionen für die weitere Software- Entwicklung verwendet. Dies ist ein wahres für Menschen gemachtes e-Governance- System ohne dem Risiko, dass "einige gleicher als andere" sind. Alle Entscheidungen sind nicht nur transparent, sondern auch für immer verfügbar und sichtbar in der Blockchain für alle gespeichert..
 [Lesen Sie mehr über Direkte Meritokratie](https://en.wikipedia.org/wiki/Meritocracy){:target="_blank"}
 
 ## Grundeinkommen
