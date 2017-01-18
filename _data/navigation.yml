@@ -20,74 +20,88 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
+  - title: "Einführung"
+    url: /docs/about/
+  - title: "Technologie"
+    url: /docs/technology/
+  - title: "MyCryptoCoin"
+    url: /docs/spezification/
+  - title: "Links"
+    url: /docs/wallets/
+  - title: "Erweitert"
+    url: /docs/whitepaper/
+  - title: "BLOG"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: "BLOG"
+    url: /year-archive/
+
+basic:
+  - title: "Einführung"
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+      - title: "Über MyCryptoWorld"
+        url: /docs/about/
+      - title: "Foundation"
+        url: /docs/foundation/
+      - title: "e-Governance"
+        url: /docs/governance/
+
+tech:
+  - title: "Technology"
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+      - title: "Technology"
+        url: /docs/technology/
+      - title: "Dezentrales Netzwerk"
+        url: /docs/dezentral/
+      - title: "Konto"
+        url: /docs/konto/
+      - title: "Konsens"
+        url: /docs/konsens/
+      - title: "Wertetausch"
+        url: /docs/exchange/
+      - title: "Peer to peer"
+        url: /docs/peer2peer/
+
+mcc:
+  - title: "MyCryptoCoin"
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
+      - title: "Spezifikationen"
+        url: /docs/spezification/
+      - title: "Features"
+        url: /docs/features/
+      - title: "Entwicklungsstand"
+        url: /docs/status/
+      - title: "Vorschau"
+        url: /docs/preview/
+      - title: "Richtlinien"
+        url: /docs/guideline/
+      - title: "Empfehlungsprämie"
+        url: /docs/referral/
+
+links:
+  - title: "Links"
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
+      - title: "Wallets"
+        url: /docs/wallets/
+      - title: "BTC kaufen"
+        url: /docs/buybtc/
+      - title: "Wechsel"
+        url: /docs/market/
+      - title: "Links"
+        url: /docs/links/
+
+extend:
+  - title: "Erweitert"
     children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "Whitepapers"
+        url: /docs/whitepaper/
+      - title: "Risken | AGB"
+        url: /docs/legal/
+      - title: "Kontakt"
+        url: /docs/contact/
 
 # sidebar navigation list sample
 sidebar-sample:
