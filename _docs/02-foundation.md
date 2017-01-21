@@ -5,7 +5,7 @@ excerpt: "WIR fördert das Ziel, Zahlungen direkt von Mensch zu Mensch - ohne ze
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com)"
+  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com){:target='_blank'}"
   cta_label: "Zum Portal"
   cta_url: "http://MyCryptoWorld.com"
 modified:  2016-11-03T10:13:32-04:00

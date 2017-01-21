@@ -5,7 +5,7 @@ excerpt: "Das MCC Konto kann Angebote von Menschen speichern, um Krypto Währung
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com)"
+  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com){:target='_blank'}"
   cta_label: "Zum Portal"
   cta_url: "http://MyCryptoWorld.com"
 modified:  2016-12-31T10:13:32-04:00
@@ -16,6 +16,7 @@ sidebar:
 
 ## Wertetausch
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/distributed-exchange3.png){: .align-center}
 Das MCC Konto ist in der Lage Angebote zu speichern, welche Menschen gemacht haben, um Krypto Währungen zu kaufen oder zu verkaufen. Die Angebote sind öffentliche Verpflichtungen eine Art von Kredit zu einem vorher festgelegten Preis für eine andere auszutauschen. Das Konto wird ein globaler Marktplatz für Angebote. Alle diese Angebote bilden ein sogenanntes Auftragsbuch. Es gibt ein Auftragsbuch für jede Krypto Währung jedes Emittenten Paar. 
 
 ---

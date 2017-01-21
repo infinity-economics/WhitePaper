@@ -2,38 +2,42 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Installiere deine Wallet"
-  cta_url: "/docs/about/"
+  #overlay_color: "#5e616c"
+  overlay_color: "#57be8b"
+  overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
+  cta_label: "<i class='fa fa-book'></i> Office ⮞ eu.MyCryptoWorld.Com/crm"
+  cta_url: "https://eu.MyCryptoWorld.Com/crm"
   caption:
-excerpt: 'MyCryptoWorld ist eine vollständig dezentralisierte und verteilte Finanz-Plattform im EIGENTUM DER MENSCHEN WELCHE SIE BENUTZEN.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.1.1">Latest release v4.1.1</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Die MyCryptoWorld.Community Europe informiert hier über die vollständig dezentralisierte und verteilte MCC Finanz-Plattform, die im Eigentum aller Menschen steht.<br /> <small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Grundeinkommen"
-    excerpt: "Werde jetzt Teil eines großen Netzwerkes der Fülle und gestalte deine Zukunft."
-    url: "/docs/about/"
-    btn_label: "Einführung"
+    title: "Office"
+    excerpt: "Werde Teil eines großen Netzwerkes der Fülle und gestalte deine Zukunft."
+    url: "https://eu.MyCryptoWorld.com/crm"
+    btn_label: "MyCryptoWorld.Com/crm"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Von Mensch zu Mensch"
-    excerpt: "Verwende die fortschrittlichste Krypto- und Finanz-Blockchain-Technologie."
-    url: "/docs/technology/"
-    btn_label: "Technologie"
+    title: "Whitepaper"
+    excerpt: "Informiere dich über die vollständig dezentralisierten Finanz-Plattform."
+    url: "/docs/about/"
+    btn_label: "Einführung"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% Frei "
-    excerpt: "Schau dir die Lern- und Erklärvideos an. Freie Software auf Github: Fork me!"
+    title: "100% Freie Software"
+    excerpt: "Schau dir die Lern- und Erklärvideos an. Fork me on Github: Freier Download!"
     url: "/year-archive/"
     btn_label: "Mehr im BLOG"
 
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Bleib informiert und folge uns &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+#  - excerpt: 'Twitter'
+# http://fontawesome.io/examples/
+# https://www.key-shortcut.com/schriftsysteme/35-symbole/pfeile/
 ---
-[(CC) Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"} < **Noch Fragen?** > [FORUM](https://forum.MyCryptoWorld.com){:target="_blank"}
+<iframe class="ktv2" src="https://klicktipp.s3.amazonaws.com/userimages/27858/forms/59928/1dw8zmpxz8z84a3.html" style="position:relative;display:inline-block;border:none;background:transparent none no-repeat scroll 0 0;margin:0;" width="256" height="50" scrolling="no"></iframe>
+Vorteile nutzen oder wieder austragen.  < **Fragen?** > [FORUM](https://forum.MyCryptoWorld.Com){:target="_blank"} / Copyright: [CC](https://creativecommons.org/licenses/by-sa/4.0/deed.de){:target="_blank"} > Twitter:&nbsp; [<i class="fa fa-twitter"></i> @CryptoCoin20](https://twitter.com/CryptoCoin20){:target="_blank"}{: .btn .btn--twitter}
 
 {% include feature_row id="intro" type="center" %}
 

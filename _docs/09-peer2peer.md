@@ -5,7 +5,7 @@ excerpt: "Die Blockchain kann auch in Echtzeit dezentrale, verteilte Internet We
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com)"
+  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com){:target='_blank'}"
   cta_label: "Zum Portal"
   cta_url: "http://MyCryptoWorld.com"
 modified:  2016-12-31T10:13:32-04:00
@@ -16,9 +16,10 @@ sidebar:
 
 ## Dezentralisiertes Internet 
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/dinternet.png){: .align-center}
  Eigenschaften
  
- - In Echtzeit aktualisierte Websites
+- In Echtzeit aktualisierte Websites
 - Namecoin .bit Domänen Unterstützung
 - Einfache Einrichtung: entpacken und ausführen
 - Clone -Websites in einem einzigen Klick

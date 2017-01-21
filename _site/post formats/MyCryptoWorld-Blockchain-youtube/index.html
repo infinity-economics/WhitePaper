@@ -13,7 +13,7 @@
 
 
 
-<title>MyCryptoWorld Übersicht (YouTube, 5’) - WhitePaper</title>
+<title>MyCryptoWorld Übersicht (YouTube, 5’) - eu.MyCryptoWorld.com</title>
 
 
 
@@ -22,7 +22,7 @@
 
 
 <meta property="og:locale" content="de_DE">
-<meta property="og:site_name" content="WhitePaper">
+<meta property="og:site_name" content="eu.MyCryptoWorld.com">
 <meta property="og:title" content="MyCryptoWorld Übersicht (YouTube, 5’)">
 
 
@@ -100,7 +100,7 @@
 <!-- end SEO -->
 
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="WhitePaper Feed">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="eu.MyCryptoWorld.com Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -133,7 +133,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">WhitePaper</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">eu.MyCryptoWorld.com</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/docs/about/">Einführung</a></li>
@@ -401,58 +401,6 @@
       <div class="page__comments">
   
   
-    <section id="static-comments">
-      
-        <!-- Start static comments -->
-        <div class="js-comments">
-          
-        </div>
-        <!-- End static comments -->
-
-        <!-- Start new comment form -->
-        <h4 class="page__comments-title">Hinterlassen sie einen Kommentar</h4>
-        <p class="small">Ihre E-Mail Adresse wird nicht veröffentlicht. Benötigte Felder sind markiert <span class="required">*</span></p>
-        <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://api.staticman.net/v1/entry/MyCryptoWorld/WhitePaper/master">
-          <div class="form__spinner">
-            <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
-            <span class="sr-only">Lade...</span>
-          </div>
-
-          <fieldset>
-            <label for="comment-form-message">Kommentar <small class="required">*</small></label>
-            <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
-            <div class="small help-block"><a href="https://daringfireball.net/projects/markdown/">Markdown wird unterstützt.</a></div>
-          </fieldset>
-          <fieldset>
-            <label for="comment-form-name">Name <small class="required">*</small></label>
-            <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
-          </fieldset>
-          <fieldset>
-            <label for="comment-form-email">E-Mail Addresse <small class="required">*</small></label>
-            <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
-          </fieldset>
-          <fieldset>
-            <label for="comment-form-url">Webseite (optional)</label>
-            <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
-          </fieldset>
-          <fieldset class="hidden" style="display: none;">
-            <input type="hidden" name="options[slug]" value="MyCryptoWorld-Blockchain-youtube">
-            <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
-            <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
-          </fieldset>
-          <!-- Start comment form alert messaging -->
-          <p class="hidden js-notice">
-            <strong class="js-notice-text"></strong>
-          </p>
-          <!-- End comment form alert messaging -->
-          <fieldset>
-            <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">Kommentar absenden</button>
-          </fieldset>
-        </form>
-        <!-- End new comment form -->
-      
-    </section>
-  
 </div>
     
   </article>
@@ -522,46 +470,17 @@
 
 
   
-  <script>
-    (function ($) {
-    var $comments = $('.js-comments');
 
-    $('#new_comment').submit(function () {
-      var form = this;
-
-      $(form).addClass('disabled');
-      $('#comment-form-submit').html('<i class="fa fa-spinner fa-spin fa-fw"></i> Lade...');
-
-      $.ajax({
-        type: $(this).attr('method'),
-        url: $(this).attr('action'),
-        data: $(this).serialize(),
-        contentType: 'application/x-www-form-urlencoded',
-        success: function (data) {
-          $('#comment-form-submit').html('Versendet');
-          $('.page__comments-form .js-notice').removeClass('notice--danger');
-          $('.page__comments-form .js-notice').addClass('notice--success');
-          showAlert('Danke für ihren Kommentar! Er wird auf der Seite angezeigt, nachdem er geprüft wurde.');
-        },
-        error: function (err) {
-          console.log(err);
-          $('#comment-form-submit').html('Kommentar absenden');
-          $('.page__comments-form .js-notice').removeClass('notice--success');
-          $('.page__comments-form .js-notice').addClass('notice--danger');
-          showAlert('Entschuldigung, es gab einen Fehler. Bitte füllen sie alle benötigten Felder aus und versuchen sie es erneut.');
-          $(form).removeClass('disabled');
-        }
-      });
-
-      return false;
-    });
-
-    function showAlert(message) {
-      $('.page__comments-form .js-notice').removeClass('hidden');
-      $('.page__comments-form .js-notice-text').html(message);
-    }
-  })(jQuery);
-  </script>
+<script type="text/javascript">
+    DiscourseEmbed = { discourseUrl: '//https://forum.MyCryptoWorld.Com/c/mycryptoworld/mycryptoworld-neu/',
+                       discourseEmbedUrl: 'http://localhost:4000/post%20formats/MyCryptoWorld-Blockchain-youtube/' };
+   (function () {
+     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+     d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+   })();
+</script>
+<noscript>Please enable JavaScript to view the comments powered by [Discourse](http://forum.beta-europe.org/c/beta/website).</a></noscript>
 
 
 

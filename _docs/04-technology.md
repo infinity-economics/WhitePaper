@@ -3,9 +3,10 @@ title: "Technologie"
 permalink: /docs/technology/
 excerpt: "MyCryptoWorld verwendet die fortschrittlichste existierente Krypto- und Finanz-Blockchain-Technologie. "
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/unsplash-image-1-gruen.jpg
+  overlay_color: "#57be8b"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com)"
+  caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com){:target='_blank'}"
   cta_label: "Zum Portal"
   cta_url: "http://MyCryptoWorld.com"
 modified:  2016-12-31T10:13:32-04:00
