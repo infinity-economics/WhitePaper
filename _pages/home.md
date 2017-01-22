@@ -5,7 +5,7 @@ header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
   cta_label: "<i class='fa fa-book'></i> Office > eu.MyCryptoWorld.Com"
-  cta_url: "https://eu.MyCryptoWorld.Com/"
+  cta_url: "http://eu.MyCryptoWorld.Com/"
   caption: 
 excerpt: '{::nomarkdown}Die <b><a href="http://MyCryptoWorld.Com">MyCryptoWorld.Com</a></b>munity verwendet das MCC Open Source Geld in der dezentralen BLOCKCHAIN. 
 WIR helfen hier gerne mit diesem Infoportal von Mensch zu Mensch.<br /><small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br />
