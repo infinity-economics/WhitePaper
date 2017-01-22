@@ -28,7 +28,7 @@ main:
     url: /docs/spezification/
   - title: "Links"
     url: /docs/wallets/
-  - title: "Erweitert"
+  - title: "Kontakt"
     url: /docs/whitepaper/
   - title: "BLOG"
     url: /year-archive/
@@ -38,6 +38,24 @@ main:
 docs:
   - title: "BLOG"
     url: /year-archive/
+
+blog:
+  - title: "Video TIPPS"
+    children:
+      - title: "<b>BLOG Home</b>"
+        url: /year-archive/
+      - title: "- Einführung"
+        url: "/post%20formats/MyCryptoWorld-Einfuehrung-youtube/"
+      - title: "- MCW Phase 2"
+        url: "/post%20formats/MyCryptoWorld-Phase2-youtube/"
+      - title: "- MCW Phase 3"
+        url: "/post%20formats/MyCryptoWorld-Phase3-youtube/"
+      - title: "- MCW Phase 4"
+        url: "/post%20formats/MyCryptoWorld-Phase4-youtube/"
+      - title: "- MCW Phase 5"
+        url: "/post%20formats/MyCryptoWorld-Phase5-youtube/"
+      - title: "- Blockchain 2017"
+        url: "/post%20formats/MyCryptoWorld-Blockchain-youtube/"
 
 basic:
   - title: "Einführung"

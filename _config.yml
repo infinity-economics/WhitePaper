@@ -9,7 +9,7 @@
 theme			 : minimal-mistakes-jekyll
 # locale                 : "en-US"
 locale                   : "de-DE"
-title                    : "eu.MyCryptoWorld.com"
+title                    : "MyCryptoWorld.Com"
 #title                   : "Minimal Mistakes"
 title_separator          : "-"
 name                     : &name "Michael Rose"
@@ -29,7 +29,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "discourse"
+  provider               : "facebook"
 # provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
@@ -38,7 +38,7 @@ comments:
 #   server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    appid                : 959614864174159
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -68,20 +68,20 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "CryptoCoin20"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook "MyCryptoWorld.Comm"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organisation # Person or Organization (defaults to Person)
+  name                   : MyCryptoWorld.Com # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "https://twitter.com/CryptoCoin20"
+    - "https://facebook.com/MyCryptoWorld.Comm"
 
 # Analytics
 analytics:
@@ -98,7 +98,7 @@ author:
   location         : "Mutter Erde"
   #location        : "Buffalo, NY"
   email            :
-  uri              : "https://MyCryptoWorld.com/WhitePaper"
+  uri              : "https://MyCryptoWorld.com"
   #uri             : "https://mademistakes.com"
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "MyCryptoWorld/doku"
+  github           : "MyCryptoWorld"
   #github          : "mmistakes"
   google_plus      :
   keybase          :
@@ -129,6 +129,9 @@ author:
 include:
   - .htaccess
   - _pages
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -137,9 +140,9 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
+#  - assets/js/plugins
+#  - assets/js/_main.js
+#  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config

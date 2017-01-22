@@ -2,24 +2,26 @@
 layout: splash
 permalink: /
 header:
-  #overlay_color: "#5e616c"
-  overlay_color: "#57be8b"
+  overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
-  cta_label: "<i class='fa fa-book'></i> Office ⮞ eu.MyCryptoWorld.Com/crm"
-  cta_url: "https://eu.MyCryptoWorld.Com/crm"
-  caption:
-excerpt: 'Die MyCryptoWorld.Community Europe informiert hier über die vollständig dezentralisierte und verteilte MCC Finanz-Plattform, die im Eigentum aller Menschen steht.<br /> <small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  cta_label: "<i class='fa fa-book'></i> Office > eu.MyCryptoWorld.Com"
+  cta_url: "https://eu.MyCryptoWorld.Com/"
+  caption: 
+excerpt: '{::nomarkdown}Die <b><a href="http://MyCryptoWorld.Com">MyCryptoWorld.Com</a></b>munity verwendet das MCC Open Source Geld in der dezentralen BLOCKCHAIN. 
+WIR helfen hier gerne mit diesem Infoportal von Mensch zu Mensch.<br /><small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br />
+<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Office"
-    excerpt: "Werde Teil eines großen Netzwerkes der Fülle und gestalte deine Zukunft."
-    url: "https://eu.MyCryptoWorld.com/crm"
-    btn_label: "MyCryptoWorld.Com/crm"
+    excerpt: "Werde Teil eines großen Netzwerkes der Fülle und gestalte deine Zukunft selbst."
+    url: "https://eu.MyCryptoWorld.com/"
+    btn_label: "eu.MyCryptoWorld.Com"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Whitepaper"
-    excerpt: "Informiere dich über die vollständig dezentralisierten Finanz-Plattform."
+    title: "Einführung"
+    excerpt: "Informiere dich über die vollständig dezentralisierte Finanz-Plattform."
     url: "/docs/about/"
     btn_label: "Einführung"
   - image_path: /assets/images/mm-free-feature.png
