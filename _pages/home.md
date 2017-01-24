@@ -7,8 +7,7 @@ header:
   cta_label: "<i class='fa fa-book'></i> Office > eu.MyCryptoWorld.Com"
   cta_url: "http://eu.MyCryptoWorld.Com/"
   caption: 
-excerpt: '{::nomarkdown}Die <b><a href="http://MyCryptoWorld.Com">MyCryptoWorld.Com</a></b>munity verwendet das MCC Open Source Geld in der dezentralen BLOCKCHAIN. 
-WIR helfen hier gerne mit diesem Infoportal von Mensch zu Mensch.<br /><small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br />
+excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Die <b><a href="http://MyCryptoWorld.Com">MyCryptoWorld.Com</a></b>munity hilft gerne mit ihrem Infoportal von Mensch zu Mensch.<br /><small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br />
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
