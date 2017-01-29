@@ -1,5 +1,5 @@
 ---
-title: "Über eu.MyCryptoWorld.com"
+title: "Über MyCryptoWorld.com"
 permalink: /docs/about/
 excerpt: "MyCryptoWorld ist eine vollständig dezentralisierte Finanz-Plattform im Eigentum der Menschen, die sie benutzen."
 header:
