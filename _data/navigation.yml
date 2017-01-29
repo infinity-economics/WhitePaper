@@ -24,7 +24,7 @@ main:
     url: /docs/about/
   - title: "Technologie"
     url: /docs/technology/
-  - title: "MyCryptoCoin"
+  - title: "Infinity-Coin"
     url: /docs/spezification/
   - title: "Links"
     url: /docs/wallets/
@@ -60,7 +60,7 @@ blog:
 basic:
   - title: "Einführung"
     children:
-      - title: "Über MyCryptoWorld"
+      - title: "Über Infinity-Economics"
         url: /docs/about/
       - title: "Foundation"
         url: /docs/foundation/
@@ -84,7 +84,7 @@ tech:
         url: /docs/peer2peer/
 
 mcc:
-  - title: "MyCryptoCoin"
+  - title: "Infinity-Coin"
     children:
       - title: "Spezifikationen"
         url: /docs/spezification/
