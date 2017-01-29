@@ -1,7 +1,7 @@
 ---
 title: "Über Infinity-Economics"
 permalink: /docs/about/
-excerpt: "Die vollständig dezentralisierte INFINITY Finanz-Plattform ist ein Open Source BLOCKCHAIN System und gehört den Menschen, die sie benutzen."
+excerpt: "Die vollständig dezentralisierte INFINITY Finanz-Plattform gehört den Menschen, die sie benutzen."
 header:
   overlay_image: /assets/images/unsplash-image-1-gruen.jpg
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
