@@ -9,14 +9,14 @@
 theme			 : minimal-mistakes-jekyll
 # locale                 : "en-US"
 locale                   : "de-DE"
-title                    : "MyCryptoWorld.Com"
+title                    : "Infinity-Economics"
 #title                   : "Minimal Mistakes"
 title_separator          : "-"
 name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 #
 #url                     : http://localhost:4000
-url                      : "https://MyCryptoWorld.com"
+url                      : "https://Infinity-Economics.at"
 #
 #url                     : "https://MyCryptoWorld.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -34,7 +34,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : https://forum.MyCryptoWorld.Com/c/mycryptoworld/mycryptoworld-neu # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : https://forum.Infinity-Economics.at/c/mycryptoworld/mycryptoworld-neu # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 #   server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
@@ -78,7 +78,7 @@ og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter d
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organisation # Person or Organization (defaults to Person)
-  name                   : MyCryptoWorld.Com # If the user or organization name differs from the site's name
+  name                   : Infintiy-Economics.at # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/InfinityEco"
     - "https://facebook.com/infinity-economics.at"
@@ -98,7 +98,7 @@ author:
   location         : "Mutter Erde"
   #location        : "Buffalo, NY"
   email            :
-  uri              : "https://MyCryptoWorld.com"
+  uri              : "https://Infinity-Economics.at"
   #uri             : "https://mademistakes.com"
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "MyCryptoWorld"
+  github           : "infinity-economics"
   #github          : "mmistakes"
   google_plus      :
   keybase          :
