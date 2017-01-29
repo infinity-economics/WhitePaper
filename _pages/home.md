@@ -15,8 +15,8 @@ feature_row:
     alt: "customizable"
     title: "Office"
     excerpt: "Werde Teil eines großen Netzwerkes der Fülle und gestalte deine Zukunft selbst."
-    url: "https://eu.MyCryptoWorld.com/"
-    btn_label: "eu.MyCryptoWorld.Com"
+    url: "http://WGC-Preelaunch.at/"
+    btn_label: "WGC-Preelaunch.at"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Einführung"
