@@ -4,8 +4,8 @@ permalink: /
 header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
-  cta_label: "<i class='fa fa-book'></i> Office > eu.MyCryptoWorld.Com"
-  cta_url: "http://eu.MyCryptoWorld.Com/"
+  cta_label: "<i class='fa fa-book'></i> Office > WGC-Preelaunch.at"
+  cta_url: "http://WGC-Preelaunch.at/"
   caption: 
 excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://MyCryptoWorld.Com">MyCryptoWorld.Com</a></b>munity.<br />
 <small>Download auf Github: <a href="https://github.com/MyCryptoWorld" target="_blank">100% Freie Software</a></small><br /><br />
