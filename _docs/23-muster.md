@@ -7,8 +7,8 @@ header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Discouse: [**https://Forum.MyCryptoWorld.com**](https://Forum.MyCryptoWorld.com){:target='_blank'}"
-  cta_label: "<i class='fa fa-book'></i> Office > eu.MyCryptoWorld.Com"
-  cta_url: "http://eu.MyCryptoWorld.Com/"
+   cta_label: "<i class='fa fa-book'></i> Office > WGC-Preelaunch.at"
+  cta_url: "http://WGC-Preelaunch.at/"
 modified:  2017-01-231T10:13:32-04:00
 author_profile: false
 sidebar:
