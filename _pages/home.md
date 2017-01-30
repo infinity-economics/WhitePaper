@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-book'></i> We-Go-Crypto > WGC-NETWORK"
   cta_url: "http://WGC-Preelaunch.eu/"
   caption: 
-excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://Infinity-Economics.at">Infintiy-Economics</a></b> Community.<br />
+excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://Infinity.Community">Infintiy.Community</a></b>.<br />
 <small>Download auf Github: <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
@@ -16,13 +16,13 @@ feature_row:
     title: "We-Go-Crypto"
     excerpt: "Werde Teil des großen Netzwerks der Fülle und gestalte deine Zukunft selbst."
     url: "http://WGC-Preelaunch.at/"
-    btn_label: "We-Go-Crypto > WGC-NETWORK"
+    btn_label: "We-Go-Crypto > WGC.NETWORK"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "INFINITY BLOCKCHAIN"
-    excerpt: "Nutze die vollständig dezentralisierte Open Source Finanz-Plattform."
+    title: "INFINITY-ECONOMICS"
+    excerpt: "Deine vollständig dezentralisierte INFINITY Open Source Finanz-Plattform."
     url: "/docs/about/"
-    btn_label: "INFINITY-ECONOMICS"
+    btn_label: "INFINITY.Community"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% Freie Software"
