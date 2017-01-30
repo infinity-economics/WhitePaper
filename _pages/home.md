@@ -5,7 +5,7 @@ header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
   cta_label: "<i class='fa fa-book'></i> We-Go-Crypto > WGC-NETWORK"
-  cta_url: "http://WGC-Preelaunch.at/"
+  cta_url: "http://WGC-Preelaunch.eu/"
   caption: 
 excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://Infinity-Economics.at">Infintiy-Economics</a></b> Community.<br />
 <small>Download auf Github: <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
