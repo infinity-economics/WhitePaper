@@ -13,14 +13,14 @@ excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns di
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Office"
-    excerpt: "Werde Teil eines großen Netzwerkes der Fülle und gestalte deine Zukunft selbst."
+    title: "We-Go-Crypto"
+    excerpt: "Werde Teil des großen WGC Netzwerks der Fülle und gestalte deine Zukunft selbst."
     url: "http://WGC-Preelaunch.at/"
-    btn_label: "WGC-Preelaunch.at"
+    btn_label: "We-Go-Crypto > WGC-NETWORK"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Einführung"
-    excerpt: "Informiere dich über die vollständig dezentralisierte Finanz-Plattform."
+    excerpt: "Informiere dich über die vollständig dezentralisierte Infinity-Economics Finanz-Plattform."
     url: "/docs/about/"
     btn_label: "Einführung"
   - image_path: /assets/images/mm-free-feature.png
