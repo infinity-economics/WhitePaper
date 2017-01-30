@@ -19,10 +19,10 @@ feature_row:
     btn_label: "We-Go-Crypto > WGC-NETWORK"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Open Source Blockchain"
-    excerpt: "Nutze die vollständig dezentralisierte Infinity-Economics Finanz-Plattform."
+    title: "INFINITY BLOCKCHAIN"
+    excerpt: "Nutze die vollständig dezentralisierte Open Source Finanz-Plattform."
     url: "/docs/about/"
-    btn_label: "Infinitiy-Economics"
+    btn_label: "INFINITY-ECONOMICS"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% Freie Software"
