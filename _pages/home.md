@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
-  cta_label: "<i class='fa fa-book'></i> We-Go-Crypto > WGC-NETWORK"
+  cta_label: "<i class='fa fa-book'></i> We-Go-Crypto.Network"
   cta_url: "http://WGC-Preelaunch.eu/"
   caption: 
 excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://Infinity.Community">Infintiy.Community</a></b>.<br />
@@ -13,10 +13,10 @@ excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns di
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "We-Go-Crypto"
+    title: "We-Go-Crypto.Network"
     excerpt: "Werde Teil des großen Netzwerks der Fülle und gestalte deine Zukunft selbst."
     url: "http://WGC-Preelaunch.at/"
-    btn_label: "We-Go-Crypto > WGC.NETWORK"
+    btn_label: "WE-GO-CRYPTO.NETWORK"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "INFINITY-ECONOMICS"
