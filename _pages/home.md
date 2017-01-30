@@ -14,15 +14,15 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "We-Go-Crypto"
-    excerpt: "Werde Teil des großen WGC Netzwerks der Fülle und gestalte deine Zukunft selbst."
+    excerpt: "Werde Teil des großen Netzwerks der Fülle und gestalte deine Zukunft selbst."
     url: "http://WGC-Preelaunch.at/"
     btn_label: "We-Go-Crypto > WGC-NETWORK"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Einführung"
-    excerpt: "Informiere dich über die vollständig dezentralisierte Infinity-Economics Finanz-Plattform."
+    excerpt: "Nutze die vollständig dezentralisierte Infinity-Economics Finanz-Plattform."
     url: "/docs/about/"
-    btn_label: "Einführung"
+    btn_label: "Infinitiy-Economics"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% Freie Software"
