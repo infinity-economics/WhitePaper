@@ -16,7 +16,7 @@ feature_row:
     title: "WE-GO-CRYPTO.network"
     excerpt: "Werde Teil des großen Netzwerks der Fülle und gestalte deine Zukunft selbst."
     url: "http://WGC-Preelaunch.at/"
-    btn_label: "WE-GO-CRYPTO.network"
+    btn_label: "We-Go-Crypto.network"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "INFINITY-ECONOMICS"
