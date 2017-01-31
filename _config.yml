@@ -71,7 +71,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter "InfinityEco"
 facebook:
-  username               : &facebook "infinity-economics.at"
+  username               : &facebook "WeGoCrypto.Network"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -79,10 +79,10 @@ og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter d
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organisation # Person or Organization (defaults to Person)
-  name                   : Infintiy-Economics.at # If the user or organization name differs from the site's name
+  name                   : INFINTIY.Community # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/InfinityEco"
-    - "https://facebook.com/infinity-economics.at"
+    - "https://facebook.com/WeGoCrypto.Network"
 
 # Analytics
 analytics:
@@ -99,7 +99,7 @@ author:
   location         : "Mutter Erde"
   #location        : "Buffalo, NY"
   email            :
-  uri              : "https://Infinity-Economics.at"
+  uri              : "https://INFINTIY.Community"
   #uri             : "https://mademistakes.com"
   bitbucket        :
   codepen          :
