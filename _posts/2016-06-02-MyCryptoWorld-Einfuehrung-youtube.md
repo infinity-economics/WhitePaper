@@ -1,6 +1,6 @@
 ---
 title: "MyCryptoWorld Einführung (Video 1')"
-excerpt: "Die <b><a href='http://MyCryptoWorld.Com'>MyCryptoWorld.Com</a></b>munity hat Linux, Bitcoin oder den MCC nicht erfunden.
+excerpt: "Die <b><a href='https://INFINITY.Community'>INFINITY.Community</a></b> hat Linux, Bitcoin oder den MCC nicht erfunden.
 WIR helfen aber gerne mit unserem Infoportal beim Open Source Geld von Mensch zu Mensch."
 header:
   overlay_image: /assets/images/unsplash-image-3.jpg
