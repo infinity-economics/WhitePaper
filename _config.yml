@@ -69,7 +69,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "InfinityEco"
+  username               : &twitter "WeGoCrypto"
 facebook:
   username               : &facebook "WeGoCrypto.Network"
   app_id                 :
@@ -81,7 +81,7 @@ social:
   type                   : Organisation # Person or Organization (defaults to Person)
   name                   : INFINTIY.Community # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/InfinityEco"
+    - "https://twitter.com/WeGoCrypto"
     - "https://facebook.com/WeGoCrypto.Network"
 
 # Analytics
