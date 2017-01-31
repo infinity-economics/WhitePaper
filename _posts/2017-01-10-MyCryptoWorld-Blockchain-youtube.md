@@ -19,7 +19,7 @@ tags:
   - Post Formats
 ---
 
-MyCryptoWorld Blockchain 2017
+MCW Abschluss 2016
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/oCocXUvy8Uc?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
