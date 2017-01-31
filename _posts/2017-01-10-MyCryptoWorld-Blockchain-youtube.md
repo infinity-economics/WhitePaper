@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/unsplash-image-3.jpg
 # overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Discouse: [**https://Forum.INFINTIY.Community**](https://Forum.INFINTIY.Community){:target='_blank'}"
+  caption: "Discouse: [**https://Forum.INFINITIY.Community**](https://Forum.INFINITIY.Community){:target='_blank'}"
   cta_label: "<i class='fa fa-book'></i> WeGoCrypto.Network"
   cta_url: "http://WeGoCrypto.network"
 modified:  2017-01-231T10:13:32-04:00
