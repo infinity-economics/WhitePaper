@@ -4,25 +4,25 @@ permalink: /
 header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
-  cta_label: "<i class='fa fa-book'></i> WE-GO-CRYPTO.network"
+  cta_label: "<i class='fa fa-book'></i> WE-GO-CRYPTO.Network"
   cta_url: "http://WGC-Preelaunch.eu/"
   caption: 
-excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://INFINITY.community">INFINTIY.community</a></b><br />
+excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://INFINITY.Community">INFINTIY.Community</a></b><br />
 <small>Download auf Github: <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "We-Go-Crypto.network"
+    title: "We-Go-Crypto.Network"
     excerpt: "Werde Teil des großen Netzwerks der Fülle und gestalte deine Zukunft selbst."
     url: "http://WGC-Preelaunch.at/"
-    btn_label: "WE-GO-CRYPTO.network"
+    btn_label: "WE-GO-CRYPTO.Network"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "INFINITY-ECONOMICS"
     excerpt: "Nutze deine vollständig dezentralisierte INFINITY Open Source Finanz-Plattform."
     url: "/docs/about/"
-    btn_label: "INFINITY.community"
+    btn_label: "INFINITY.Community"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% Freie Software"
