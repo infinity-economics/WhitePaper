@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-book'></i> WE-GO-CRYPTO.network"
   cta_url: "http://WGC-Preelaunch.eu/"
   caption: 
-excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://INFINITY.community">INFINTIY.community</a></b>.<br />
+excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Kultur in der <b><a href="http://INFINITY.community">INFINTIY.community</a></b><br />
 <small>Download auf Github: <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
