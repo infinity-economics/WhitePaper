@@ -17,11 +17,11 @@ description              : &description "Sicheres Geld für eine neue freie Welt
 #
 #url                     : http://localhost:4000
 #url                     : "https://INFINITY-ECONOMICS.at"
-url                      : "https://INFINITY.Community"
+url                             : "https://INFINITY.Community"
 #url                     : "https://infinity-economics.github.io/"
 #url                     : "https://MyCryptoWorld.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "INFINITY-ECONOMICS/WhitePaper"
+baseurl                     : # the subpath of your site, e.g. "/blog"
+repository                : "INFINITY-ECONOMICS/WhitePaper"
 #
 #url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
