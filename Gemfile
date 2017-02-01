@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "jekyll", "~> 3.3.0"
+#gem "jekyll", "~> 4.2.1"
 gem "minimal-mistakes-jekyll"
 
 # If you have any plugins, put them here!

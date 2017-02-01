@@ -3,7 +3,7 @@ title: "Wallets"
 permalink: /docs/wallets/
 excerpt: "Bezahle mit deiner digitalen Wallet direkt von Mensch zu Mensch. Du brauchst dafür kein zentrales Bankensystem."
 header:
-  overlay_image: /assets/images/unsplash-image-1-gruen.jpg
+  overlay_image: /assets/images/mm-home-page-feature-stimmung2.jpg
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Discouse: [**https://Forum.INFINITY.Community**](https://Forum.INFINITY.Community){:target='_blank'}"

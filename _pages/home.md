@@ -3,11 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature-green-smart.jpg
+  overlay_image: /assets/images/mm-home-page-feature-stimmung.jpg
   cta_label: "<i class='fa fa-book'></i> WeGoCrypto.Network"
   cta_url: "http://WeGoCrypto.network"
   caption: 
-excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source <b><a href="https://INFINITY.Community/docs/about/">INFINTIY-ECONOMICS</a></b> Finanz-Plattform.<br />
+excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Finanz-Plattform von <b><a href="https://INFINITY.Community/docs/about/">INFINTIY-ECONOMICS</a></b> <br />
 <small>Download auf Github: <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
