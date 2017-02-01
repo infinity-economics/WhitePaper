@@ -9,15 +9,15 @@
 theme			 : minimal-mistakes-jekyll
 # locale                 : "en-US"
 locale                   : "de-DE"
-title                    : "INFINTIY.Community"
+title                    : "INFINITY.Community"
 #title                   : "Minimal Mistakes"
 title_separator          : "-"
 name                     : &name "INFINITY.Community"
-description              : &description "Sicheres Geld für eine neue freie Welt: Die Open Source Finanz-Plattform von INFINTIY-ECONOMICS"
+description              : &description "Sicheres Geld für eine neue freie Welt: Die Open Source Finanz-Plattform von INFINITY-ECONOMICS"
 #
 #url                     : http://localhost:4000
-#url                      : "https://Infinity-Economics.at"
-url                      : "https://INFINTIY.Community"
+#url                     : "https://INFINITY-ECONOMICS.at"
+url                      : "https://INFINITY.Community"
 #
 #url                     : "https://MyCryptoWorld.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : https://forum.INFINTIY.Community/c/mycryptoworld/mycryptoworld-neu # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : https://forum.INFINITY.Community/c/mycryptoworld/mycryptoworld-neu # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 #   server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
@@ -79,7 +79,7 @@ og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter d
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organisation # Person or Organization (defaults to Person)
-  name                   : INFINTIY.Community # If the user or organization name differs from the site's name
+  name                   : INFINITY.Community # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/WeGoCrypto"
     - "https://facebook.com/WeGoCrypto.Network"
@@ -99,7 +99,7 @@ author:
   location         : "Mutter Erde"
   #location        : "Buffalo, NY"
   email            :
-  uri              : "https://INFINTIY.Community"
+  uri              : "https://INFINITY.Community"
   #uri             : "https://mademistakes.com"
   bitbucket        :
   codepen          :
