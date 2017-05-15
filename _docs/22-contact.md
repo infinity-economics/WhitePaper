@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-permalink: /docs/contact
+permalink: /docs/contact/
 excerpt: "Der Unterschied ist .::. XIN Infinity"
 header:
   overlay_image: /assets/images/mm-home-page-feature-stimmung2.jpg
