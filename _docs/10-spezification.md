@@ -1,7 +1,7 @@
 ---
 title: "Spezifikationen"
 permalink: /docs/spezification/
-excerpt: "Der MCC MyCryptoCoin hat in der dezentralen MCW Finanz-Plattform seine eigene Blockchain."
+excerpt: "Der XIN Coin hat in der dezentralen Infinity Finanz-Plattform seine eigene Blockchain."
 header:
   overlay_image: /assets/images/mm-home-page-feature-stimmung2.jpg
   overlay_color: "#57be8b"   #overlay_color: "#5e616c"
@@ -22,11 +22,11 @@ style="position:relative;display:inline-block;border:none;background:transparent
 
 Schnell einfach ein- oder wieder austragen.
 
-## MCC Spezifikationen
+## XIN Spezifikationen
 
-Name | MyCryptoCoin
+Name | XIN von Infinity
 Icon* | X
-Ticker/Symbol | MCC
+Ticker/Symbol | XIN
 Algorithmus | 100% Proof of Stake / [PoS](https://en.wikipedia.org/wiki/Proof-of-stake)
 Versorgung* | 1.000.000.000
 Zeitblock | 1 Minute
@@ -44,8 +44,8 @@ Kunden Web | Desktop + Mobile
 Börsentyp | Brainwallet
 Knotentyp Kommandozeile | alle wichtigen Betriebsysteme
 API | Ja JSON
-Transaktions gebühr* | 0.01 - 1.00 = freier Wechselkurs
-Erstverteilung uneingeschränkt geteilt | nur MCC/MCW Mitglieder und Stiftung
+Transaktionsgebühr* | 0.01 - 1.00 = freier Wechselkurs
+Erstverteilung uneingeschränkt geteilt | nur Infinity Mitglieder und Stiftung
 * Erster Entwurf könnte sich aber ändern.
 * Anfangs / Feste Versorgung könnte sich ändern.
 * Drei Monate nach der Freigabe um Nachahmer zu verhindern. * Anpassungsfähig durch Mitgliederabstimmung.
