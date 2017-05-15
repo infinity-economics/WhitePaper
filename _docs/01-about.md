@@ -1,6 +1,6 @@
 ---
 title: "Über Infinity-Economics"
-permalink: /docs/01-about/
+permalink: /docs/about/
 excerpt: "Die vollständig dezentralisierte INFINITY Finanz-Plattform gehört den Menschen, die sie benutzen."
 header:
   overlay_image: /assets/images/mm-home-page-feature-stimmung2.jpg
