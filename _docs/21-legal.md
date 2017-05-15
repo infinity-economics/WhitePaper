@@ -19,11 +19,9 @@ sidebar:
 
 ## Risiken | Geschäftsbedinungen
 
-RISIKEN IM ZUSAMMENHANG MIT KAUF VON MYCRYPTOCOIN (MCC) TOKENS
+RISIKEN IM ZUSAMMENHANG MIT KAUF VON Infinity XIN
 
-Zuletzt aktualisiert, am 10. Januar 2016
-
-Dieses Dokument ist keine Aufforderung für Investitionen und stellt in keiner Weise ein Wertpapierangebot in der einer Rechtsordnung dar.
+Dieses Dokument ist keine Aufforderung für Investitionen und stellt in keiner Weise ein Wertpapierangebot dar.
 
 ---
 <iframe class="ktv2" src="https://klicktipp.s3.amazonaws.com/userimages/27858/forms/59928/1dw8zmpxz8z84a3.html"
