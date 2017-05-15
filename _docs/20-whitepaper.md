@@ -1,5 +1,5 @@
 ---
-title: "Whitepapers "
+title: "Whitepapers"
 permalink: /docs/whitepaper/
 excerpt: "Die Realwirtschaft braucht ein optimales Zahlungsmittel und bekommt mit dem MCC die effektivste Open Source Lösung."
 header:
