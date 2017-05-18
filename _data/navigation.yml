@@ -114,10 +114,10 @@ links:
 extend:
   - title: "Erweitert"
     children:
-      - title: "Whitepapers"
-        url: /docs/whitepaper/
-      - title: "Risken | AGB"
-        url: /docs/legal/
+#      - title: "Whitepapers"
+#        url: /docs/whitepaper/
+#      - title: "Risken | AGB"
+#        url: /docs/legal/
       - title: "Kontakt"
         url: /docs/contact/
 
