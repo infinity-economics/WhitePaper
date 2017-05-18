@@ -8,7 +8,7 @@ header:
   cta_url: "http://WeGoCrypto.network"
   caption: 
 excerpt: '{::nomarkdown}Sicheres Geld für eine neue freie Welt. Rock mit uns die Open Source Finanz-Plattform by <b><a href="https://www.facebook.com/InfinityCommunity.org/">INFINTIY.Community</a></b> <br />
-<small>Download auf Github: <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
+<small>Download auf Github : <a href="https://github.com/infinity-economics" target="_blank">100% Freie Software</a></small><br /><br />
 <iframe style="display: inline-block;" src="https://github.com/infinity-economics&type=fork&count=false&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
